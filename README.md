@@ -3,7 +3,8 @@
 Aplicación Java cuya funcionalidad es la conexión de clientes a un servidor de chat, haciendo uso de un
 intermediario que es un directorio o servidor con las listas de chats que gestionará las peticiones de
 los clientes. La aplicación gestiona los protocolos UDP y TCP para las comunicaciones entre clientes,
-servidores y el directorio.
+servidores y el directorio. Proyecto final de la asignatura de Redes de Comunicaciones del segundo año
+del grado de Ingeniería Informática en la Universidad de Murcia.
 
 ## Funcionamiento de la aplicación
 
